@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    list-style:none;
+  }
+  html{
+    scroll-behavior:smooth;
+  }
+  nav{
+    height:100px;
+  }
+  .Title{
+    font-size:50px;
+    line-height:100px;
+    color:white;
+  }
+  nav ul{
+    float:right;
+  }
+  nav ul li{
+    display:inline-block;
+    font-size:30px;
+    line-height:100px;
+  }
+  td a{
+    color:white;
+  }
+  nav ul li a{
+    padding:10px;
+    color:white;
+  }
+  nav ul li a:hover{
+    background-color:cyan;
+    color:black;
+    border-radius:50px;
+  }
+  img{
+    margin-top:10%;
+  }
+  button{
+    font-size:40px;
+    cursor:pointer;
+    border:none;
+    margin-left:43%;
+    background-color:cyan;
+    border-radius:20px;
+    box-shadow:0 10px grey;
+  }
+  button:active{
+    transform:translateY(3px);
+  }
+  body{
+    background-image:url("https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2017/09/Difference-Between-Germination-and-Sprouting-2.png?fit=800%2C408&ssl=1");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+  }
+  #Div2{
+    color:white;
+  }
+  table{
+    color:white;
+  }
+  th{
+    font-size:40px;
+  }
+  td{
+    font-size:40px;
+  }
+  #Div1{
+    height:800px;
+  }
+  #Div3{
+    height:800px;
+  }
+  #Div4{
+    color:white;
+    height:800px;
+    font-size:50px;
+  }
+  #Div5{
+    height:800px;
+    color:white;
+    font-size:50px;
+    margin-top:100px;
+  }
+  input{
+    height:30px;
+    width:200px;
+    border-radius:10px;
+  }
+  
